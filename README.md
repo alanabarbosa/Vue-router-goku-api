@@ -1,4 +1,4 @@
-# curso
+# Projeto desenvolvido durante meus estudos de Vue Router
 
 ## Project setup
 ```
@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run JSON Server (initial API)
+```
+cd api-goku && json-server --watch ./api.json
+```
