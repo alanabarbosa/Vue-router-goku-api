@@ -1,0 +1,186 @@
+{
+   "home": {
+    "id": "home",
+    "nome": "Home",
+    "descricao": "Dragon Ball é cheio de personagens poderosíssimos, mas nenhum deles – ou quase nenhum – se compara a Son Goku, o protagonista da saga.",
+    "descricao_1": " Com um poder assustador e uma inigualável força de vontade, superada apenas pela pureza de seu coração, Goku salvou a Terra incontáveis vezes, transformou inimigos mortais em grandes amigos e entrou no nosso coração para nunca mais sair, sendo um dos personagens mais amados e facilmente reconhecíveis do mundo."
+   },
+   "About": {
+    "id": "sobre",
+    "nome": "Sobre",
+    "descricao": "Goku (孫 悟空, Son Gokū, ou Son Goku), nascido Kakarotto (カカロット, Kakarotto) é o protagonista das franquias Dragon Ball. Ele é neto adotivo de Vovô Gohan, filho de Bardock e Gine, o irmão mais novo de Raditz, o marido de Chichi, pai de Gohan e Goten, avô de Pan e mais tarde tataravô de Goku Jr. Sua primeira aparição ocorreu em 1984, no primeiro capítulo do mangá Dragon Ball, publicado na revista Weekly Shōnen Jump. Goku é inspirado em Sun Wukong, personagem do romance Jornada ao Oeste. Porém, Toriyama mudou algumas de suas características para ser mais original. Goku é apresentado como um menino estranho com rabo de macaco e força sobre-humana.",
+    "descricao_1": " Alegre, corajoso, e também um pouco ingênuo, Goku é um Saiyajin originalmente enviado à Terra quando criança com a missão de destruí-la. Porém, um acidente altera sua memória, fazendo-o crescer com um coração puro e depois se torna o maior defensor da Terra, e também o líder informal dos Guerreiros Z. Através da sua vida, ele treina duro e deseja ser o melhor guerreiro possível, e ao mesmo tempo usando sua força incrível para manter a paz. "
+   },   
+   "transformacoes": [
+    {
+        "id": "oozaru",
+        "nome": "Ozzaru",
+        "img": "oozaru"
+
+    },        
+    {
+        "id": "super-sayajin",
+        "nome": "Super Sayajin",
+        "img": "ssj"
+    },
+    {
+        "id": "super-sayajin-2",
+        "nome": "Super Sayajin 2",
+        "img": "ssj2"
+    },
+    {
+        "id": "super-sayajin-3",
+        "nome": "Super Sayajin 3",
+        "img": "ssj3"
+    },
+    {
+        "id": "super-sayajin-4",
+        "nome": "Super Sayajin 4",
+        "img": "ssj4"
+    },        
+    {
+        "id": "vegetto",
+        "nome": "Vegeto",
+        "img": "vegetto"
+    },
+    {
+        "id": "gogeta",
+        "nome": "Gogeta",
+        "img": "gogeta"
+    },
+    {
+        "id": "super-sayajin-god",
+        "nome": "Deus Super Sayajin",
+        "img": "ssjgod"
+    },
+    {
+        "id": "super-sayajin-blue",
+        "nome": "Super Saiyajin Deus Super Saiyajin ",
+        "img": "bluessj"
+    },
+    {
+        "id": "instito-superior",
+        "nome": "Instinto Superior",
+        "img": "instinto"
+    }
+    ],
+    "transformacao": [
+        {
+            "id": "oozaru",
+            "nome": "Ozzaru",
+            "descricao": "Macaco Gigantesco é um macaco gigante que os Saiyajins se transformam após olharem para a lua cheia e aumentar sua força enorme. A transformação é similar à de como lobisomens se transformam com a lua cheia. Originalmente na série, o Macaco Gigantesco era uma transformação para Goku, este personagem sendo uma paródia do Rei Macaco Sun Wukong do livro Jornada ao Oeste. Mais tarde na série, Macaco Gigantesco foi descoberto ser uma transformação que é acessível a personagens que possuem genes Saiyajin.",
+            "img": "oozaru"
+
+        },        
+        {
+            "id": "super-sayajin",
+            "nome": "Super Sayajin",
+            "descricao": "Super Saiyajin é uma transformação avançada usada por membros extraordinariamente poderosos da raça Saiyajin na franquia Dragon Ball. Terráqueos em Dragon Ball Online também podem usar a transformação. A habilidade de se transformar em um Super Saiyajin era considerado nada além de uma lenda, pois não era visto faz mil anos. O primeiro Saiyajin a se transformar em Super Saiyajin foi Yamoshi, um Saiyajin de coração justo que se rebelou contra os Saiyajins maus com seus cinco companheiros, mas contra seus maiores números, ele se cansou e foi derrotado. Embora seja contado apenas como uma lenda, Freeza, que era considerado o mais forte do universo, ficou paranoico com a possibilidade da verdade atrás da lenda devido ao aumento constante do poder da raça Saiyajin. Por causa deste medo, Freeza chegou à conclusão que ele deveria aniquilar a raça Saiyajin destruindo o Planeta Vegeta, então aparentemente finalizando a lenda do Super Saiyajin. Porém, vinte e cinco anos depois, a lenda do Super Saiyajin se provou verdadeira quando Goku conseguiu se transformar durante a sua grande batalha contra o tirano, Freeza. ",
+            "img": "ssj"
+        },
+        {
+            "id": "super-sayajin-2",
+            "nome": "Super Sayajin 2",
+            "descricao": "Super Saiyajin 2 é o sucessor direto da primeira transformação Super Saiyajin. É muito similar à forma original em aparência; porém o poder é muito maior, porque a velocidade, força, e limite de energia todos aumentam drasticamente. Gohan é a primeira pessoa a conseguir a forma no manga, e ele usa enquanto luta com Cell nos Jogos de Cell. Goku e Vegeta logo o seguem, com Goku aprendendo-o no Outro Mundo e Vegeta aprendendo-o na Terra. Para conseguir esta transformação, o Saiyajin precisa ganhar uma grande quantidade de energia (por treino), bem além do necessário para a primeira forma Super Saiyajin. Após energia necessária ser adquirida, o Saiyajin precisa experimentar uma poderosa perturbação emocional, assim como a primeira forma Super Saiyajin, mas em maior escala. Por causa desta intensa emoção necessária para iniciar a transformação, qualquer dominância da forma Super Saiyajin Poder Total, e estabilidade mental conseguida, é negada, e a natureza sem remorso da raça Saiyajin é aumentada, requerindo que eles redominem a mudança de personalidade. Até o gentil e educado Gohan se torna um lutador impiedoso após se transformar, optando a torturar Cell ao invés de matá-lo, apesar das súplicas de Goku. O poder desta forma é bem maior, pois é o dobro da força da transformação Super Saiyajin normal.",
+            "img": "ssj2"
+        },
+        {
+            "id": "super-sayajin-3",
+            "nome": "Super Sayajin 3",
+            "descricao": "Super Saiyajin 3 está entre as mais poderosas transformações Super Saiyajin no manga Dragon Ball e no anime Dragon Ball Z. É a terceira forma de Super Saiyajin, sucessora da primeira e segunda transformações. Goku foi o primeiro a conseguir a forma, fazendo-o em seus sete anos de treinamento no Outro Mundo. Em video games, Vegeta consegue a forma devido a uma combinação de extrema raiva e treinamento vigoroso, e Broly consegue sua versão da forma devido a uma grande Zenkai. A primeira vez que Goku usou esta forma na Terra, seu poder causou maremotos e furacões e quase destruiu o planeta. Durante transformações subsequentes, Goku consegue contrá-la suficiente para prevenir estes efeitos colaterais perigosos. Em adição, este poder pode ser sentido até na distância entre a Terra e o Planeta Sagrado de Kaiohshin, algo que não só chocou o Supremo Senhor Kaioh, Kibito, e Gohan, mas também os preocupou.",
+            "img": "ssj3"
+        },
+        {
+            "id": "super-sayajin-4",
+            "nome": "Super Sayajin 4",
+            "descricao": "Super Saiyajin 4 é uma transformação Saiyajin presente na sequência Dragon Ball GT. Esta transformação é a combinação do Saiyajin humanoide e do Oozaru Dourado. A única forma de um Saiyajin se transformar em Super Saiyajin 4 é se ele já pode se transformar em Super Saiyajin, virar Oozaru Dourado, e depois manter controle de si mesmo. Após a forma ser transformada da primeira vez, não é necessário fazer isto de novo. Nesta forma, a cor do cabelo fica diferente, e o mesmo ocorre com a cauda e o corpo fica coberto em pelos vermelhos. Um Saiyajin nessa forma também tem uma sombra vermelha nos olhos. O cabelo é alongado, mas não tão alongado como o Super Saiyajin 3. A aura nesta forma perde os arcos de eletricidade e ganha brilho e tem uma aparência de chama. No caso do guerreiro Gogeta, a coloração é trocada, seu cabelo fica um marrom escuro e a sombra dos seus olhos são pretos ao invés de vermelho. A transformação Super Saiyajin 4 puxa o poder de seus usuários até o limite absoluto. O poder e velocidade massivos trazidos por essa forma fazem-a a transformação Saiyajin mais poderosa em GT. Por exemplo, enquanto a forma Super Saiyajin 3 de Goku não conseguia nem atingir Baby Vegeta, logo que Goku virou Super Saiyajin 4, os seus papéis se inverteram com Baby não conseguindo machucar Goku de jeito nenhum.",
+            "img": "ssj4"
+        },        
+        {
+            "id": "vegetto",
+            "nome": "Vegeto",
+            "descricao": "Vegetto é a fusão imensamente poderosa resultado de Goku e Vegeta após eles usarem os Brincos Potara. Sua voz é uma voz dupla que contêm ambas as vozes de Goku e Vegeta. Vegetto é conhecido por seu imenso poder e velocidade, e é o personagem mais poderoso no mangá de Dragon Ball. Seu equivalente da Dança Metamoru é Gogeta. Vegetto é uma mistura das características de Goku e Vegeta. Ele é da mesma altura que Goku, enquanto seu cabelo é mais inclinado para Vegeta; ele firmemente fica pra cima e é meio castanho escuro na cor, porém, ele tem duas mechas de cabelo caindo em um 'V' pra baixo, um traço de Goku. Quando ele se transforma em Super Saiyajin, ele parece quase exatamente como Goku. Vegetto usa dois brincos como resultado da Fusão Potara, e veste uma versão invertida do gi de Goku. A inversão é causada por adotar a cor da roupa de Vegeta para a roupa externa, e o laranja do gi de Goku como a camiseta de dentro. Por último, ele usa luvas brancas e botas no mesmo estilo que Vegeta.",
+            "img": "vegetto"
+        },
+        {
+            "id": "gogeta",
+            "nome": "Gogeta",
+            "descricao": "Gogeta é um personagem que é a fusão resultante de dois Saiyajins muito poderosos Goku e Vegeta quando eles fazem a Dança Metamoru propriamente. Sua voz é dupla que contêm a voz de ambos Goku e Vegeta. Gogeta é famoso por seu poder e velocidade incríveis, e é considerado um dos personagens mais poderosos da série, junto com seu equivalente Potara, Vegetto. Gogeta usa as mesmas roupas que todas as criações da Dança Metamoru usam. Porém, a veste de Gogeta tem uma cor diferente do que a de Gotenks: o preenchimento ao redor do pescoço e ombros é laranja avermelhado ao invés de amarelo, e a veste é preta ao invés do azul escuro de Gotenks. Seu cabelo é similar ao de Vegetto, a única diferença é que Gogeta só tem uma mecha de cabelo pendurado ao invés de duas e Gogeta tem as entradas de Vegeta. Gogeta possui o corpo de Goku na qual ele é alto e magro, mas ele tem as características faciais de Vegeta.",
+            "img": "gogeta"
+        },
+        {
+            "id": "super-sayajin-god",
+            "nome": "Deus Super Sayajin",
+            "descricao": "Deus Super Saiyajin é uma transformação Super Saiyajin que ultrapassa Super Saiyajin 3. Ele aparece no filme Dragon Ball Z: A Batalha dos Deuses e depois em Dragon Ball Super. Segundo as entrevistas com Tadayoshi Yamamuro o designer dos personagens, em Batalha dos Deuses, o Deus Super Saiyajin seria mais musculoso, vestindo uma capa, e com um estilo entre Super Saiyajin 3 e Super Saiyajin 4. O autor original da série, Akira Toriyama, surgiu com uma imagem do Deus Super Saiyajin que era completamente diferente do design musculoso inicial de Yamamuro. E então Toriyama decidiu que o Deus Super Saiyajin não deveria ser muito musculoso. O poder dessa forma é grande o suficiente para permitir de Goku a lutar no mesmo nível com o Deus da Destruição Beerus, que havia derrotado facilmente o Super Saiyajin 3 de Goku, Ultimate Gohan, Majin Buu, Super Saiyajin Gotenks, e um raivoso Vegeta Super Saiyajin 2. É atualmente uma das mais poderosas transformações dos Saiyajins de todo Dragon Ball. Esta forma também permite ao usuário sentir o Ki divino, e eles podem absorver os ataques através do consumo do ki. Por mais poderoso que seja, no entanto, também tem desvantagens: a forma originalmente esgotava rapidamente as reservas de energia do usuário, portanto só poderia ser acessada por um tempo limitado. Beerus especula que isso pode ser superado e se tornar bastante formidável. Mesmo após o limite de tempo se esgotar, o Saiyajin ainda receberá um considerável aumento de poder momentâneo, demonstrado por Goku continuar lutando contra o Deus da Destruição em sua forma de Super Saiyajin.",
+            "img": "ssjgod"
+        },
+        {
+            "id": "super-sayajin-blue",
+            "nome": "Super Saiyajin Deus Super Saiyajin ",
+            "descricao": "Super Saiyajin Deus Super Saiyajin é a transformação Super Saiyajin com o poder do Deus Super Saiyajin. Aparece em Dragon Ball Z: O Renascimento de 'F'. Nesta forma, a aparência do Saiyajin muda drasticamente do Deus Super Saiyajin original. Enquanto transformado, o cabelo do Saiyajin tem o mesmo estilo que o Super Saiyajin normal, mas ao invés de dourado, a adição de energia divina do Deus Super Saiyajin faz com que o cabelo, sobrancelhas, e íris fiquem azul. A aura também muda mais uma vez; ao invés da aura laranja-vermelha que a outra forma tinha, Super Saiyajin Deus Super Saiyajin tem uma aura azul vibrante para combinar com a nova cor do cabelo. A forma Super Saiyajin Deus Super Saiyajin faz Goku capaz de lutar igualmente com Freeza Dourado, e aguentar um soco dele sem nem se mexer. Ao contrário de seu antecessor, o Deus Super Saiyajin, a forma Super Saiyajin Deus Super Saiyajin é uma transformação permanente visto como Goku e Vegeta se transformaram nesta forma durante sua batalha contra Freeza.",
+            "img": "ssjblue"
+        },
+        {
+            "id": "instito-superior",
+            "nome": "Instinto Superior",
+            "descricao": "Instinto Superior é uma habilidade ensinada por Whis para Beerus, Goku, e Vegeta. É uma técnica rara e difícil de dominar mesmo entre os deuses, e nem Beerus foi capaz de aprendê-la completamente. Com esta habilidade, cada parte do corpo se move sem necessidade de usar os comandos do cérebro, devido a se mover instintivamente, dando maior velocidade e vantagem contra oponentes que podem se mover em grande velocidade. Whis ensina a técnica para Beerus, que ainda não dominou completamente. Whis então começa a ensinar a técnica para Goku e Vegeta durante seu treinamento antes da vingança de Freeza. Na versão manga da Partida de Exibição Zen, Beerus usa a técnica ao lutar com os outros deuses da destruição, mas devido a não ter dominado a técnica, é pego por Mosco. No Torneio do Poder, Goku libera a técnica após ser atingido com sua própria Genki Dama, que foi refletida por Jiren. Whis teoriza que durante a explosão da Genki Dama, a energia entrou dentro do corpo de Goku, recuperando suas energias, mas enquanto se esforçava para não ser morto, Goku quebrou uma barreira e liberou seu potencial interno. A forma incompleta de Goku é referida como Instinto Superior (Presságio).",
+            "img": "instinto"
+        }
+    ],
+   "familia": [
+        {
+            "id": "bardock",
+            "nome": "Bardock",
+            "parentesco": "Pai",
+            "img": "bardock"
+        },
+        {
+            "id": "raditz",
+            "nome": "Raditz",
+            "parentesco": "Irmão",
+            "img": "raditz"
+        },
+        {
+            "id": "son-gohan",
+            "nome": "Son Gohan",
+            "parentesco": "Avô",
+            "img": "avogohan"
+        },
+        {
+            "id": "chichi",
+            "nome": "Chichi",
+            "parentesco": "Esposa",
+            "img": "chichi"
+        },
+        {
+            "id": "rei-cutelo",
+            "nome": "Rei Cutelo",
+            "parentesco": "Sogro",
+            "img": "reicutelo"
+        },
+        {
+            "id": "gohan",
+            "nome": "Gohan",
+            "parentesco": "Filho",
+            "img": "gohan"
+        },
+        {
+            "id": "Goten",
+            "nome": "Goten",
+            "parentesco": "Filho",
+            "img": "goten"
+        },
+        {
+            "id": "videl",
+            "nome": "Videl",
+            "parentesco": "Nora",
+            "img": "videl"
+        },
+        {
+            "id": "pan",
+            "nome": "Pan",
+            "parentesco": "Neta",
+            "img": "pan"
+        }
+    ]
+}
