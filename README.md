@@ -43,7 +43,7 @@ npm install
 
 
 
-### :four: Compilation and HMR for development with Vite
+### :four: Compiles and hot-reloads for development
 
 **NPM**
 
@@ -54,7 +54,7 @@ npm run serve
 
 - **Perfect!** :white_check_mark: If you follow all the previous steps, you can access the web application at the url: [localhost:8080/](http://localhost:5173)
 
-### :four: Compile and minify for production
+### :four: Compiles and minifies for production
 
 **NPM**
 
