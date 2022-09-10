@@ -45,7 +45,7 @@ header {
                             padding: 0 10px;
                             margin-left: 10px;
                               &.router-link-exact-active {
-                                    color: #fbbc42;
+                                color: #fbbc42;
                                 }
                         }
                     }
